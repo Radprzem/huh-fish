@@ -7,3 +7,4 @@ g++ huh_fish.cpp -o huh_fish.huh
 ```
 ./huh_fish.huh
 ```
+#### If it won't work then idk what to do.
