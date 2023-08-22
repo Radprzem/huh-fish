@@ -3,3 +3,7 @@
 ```
 g++ huh_fish.cpp -o huh_fish.huh
 ```
+#### To run this use this command.
+```
+./huh_fish.huh
+```
